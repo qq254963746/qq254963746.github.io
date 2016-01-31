@@ -1,10 +1,11 @@
 # Site settings
-title: 醉枫
+title: "醉枫|水滴石穿"
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "醉枫|水滴石穿"  
+description: "醉枫|水滴石穿"
 baseurl: ""
-url: "http://zuifeng.me"  
+url: "http://zuifeng.me"
+
 
 # About/contact
 owner: 
