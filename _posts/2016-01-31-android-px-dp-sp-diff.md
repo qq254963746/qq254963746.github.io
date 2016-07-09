@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andoird: 屏幕适配, px和dp, sp换算公式
+title: 2016-07-09 - Andoird: 屏幕适配, px和dp, sp换算公式
 date: 2016-07-09
 categories: blog
 tags: [android,屏幕适配]
@@ -32,7 +32,7 @@ description: Andoird: 屏幕适配, px和dp, sp换算公式
 > PPI(density):是Pixels per inch缩写，每英寸上的像素数,即 "像素密度",density和dpi的关系为 density = dpi/160
 
 
-###drawable- hdpi、drawable- mdpi、drawable-ldpi的区别：
+### drawable- hdpi、drawable- mdpi、drawable-ldpi的区别：
 
 (1) drawable-hdpi里面存放高分辨率的图片,如WVGA (480x800),FWVGA (480x854)
 
@@ -40,7 +40,7 @@ description: Andoird: 屏幕适配, px和dp, sp换算公式
 
 (3)drawable-ldpi里面存放低分辨率的图片,如QVGA (240x320)
 
-####Android系统有自动渲染机制,会根据机器的分辨率来分别到这几个文件夹里面去找对应的图片。
+### Android系统有自动渲染机制,会根据机器的分辨率来分别到这几个文件夹里面去找对应的图片。
 
 
 xxhdpi | size=144*144   | dpi=480   | density=3|
