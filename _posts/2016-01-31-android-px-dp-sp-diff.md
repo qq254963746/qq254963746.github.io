@@ -1,4 +1,13 @@
-#Andoird: 屏幕适配, px和dp, sp换算公式
+---
+layout: post
+title: Andoird: 屏幕适配, px和dp, sp换算公式
+date: 2016-07-09
+categories: blog
+tags: [android,屏幕适配]
+description: Andoird: 屏幕适配, px和dp, sp换算公式
+---
+
+##Andoird: 屏幕适配, px和dp, sp换算公式
 
 ### 换算公式:
 * PPI =（长度像素数² + 宽度像素数²） / 屏幕对角线英寸数
