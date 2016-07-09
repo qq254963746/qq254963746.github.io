@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-01-31 - tcp/ip的整理
+title: TCP/IP的整理
 date: 2016-01-31
 categories: blog
 tags: [github,博客,jekyll]

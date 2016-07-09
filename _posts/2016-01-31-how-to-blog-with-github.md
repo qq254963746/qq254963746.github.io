@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-01-31 - 怎么利用Github搭建个人博客
+title: 怎么利用Github搭建个人博客
 date: 2016-01-31
 categories: blog
 tags: [github,博客,jekyll]

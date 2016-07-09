@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-07-09 - Andoird: 屏幕适配, px和dp, sp换算公式
+title: Andoird:屏幕适配, px和dp, sp换算公式
 date: 2016-07-09
 categories: blog
 tags: [android,屏幕适配]
