@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Andoird:屏幕适配, px和dp, sp换算公式
-date: 2016-07-09
+title: android 屏幕适配, px和dp, sp换算公式
+date: 2016-01-31
 categories: blog
-tags: [android,屏幕适配]
-description: Andoird: 屏幕适配, px和dp, sp换算公式
+tags: [github,博客,jekyll]
+description: 用Github + Jekyll搭建个人博客
 ---
 
 ##Andoird: 屏幕适配, px和dp, sp换算公式
